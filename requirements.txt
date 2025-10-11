@@ -5,7 +5,7 @@ pymongo
 certifi
 scikit-learn
 dill
-pyaml
+PyYAML
 yaml
 
 # -e.
